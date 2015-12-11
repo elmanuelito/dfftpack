@@ -1,0 +1,10 @@
+v1.0: as downloaded from http://www.netlib.org/fftpack/
+      file	dp.tgz
+      for	double precision clone of fftpack
+      by	Hugh C. Pumphrey <hcp@met.ed.ac.uk>
+      prec	double
+      lang	Fortran
+      gams	J1a
+
+
+v1.1: as cloned from https://github.com/jmbr
